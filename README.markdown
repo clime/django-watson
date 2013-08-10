@@ -1,3 +1,8 @@
+clime:
+=============
+I have added support for changing seach config in PostgreSQL:
+WATSON_POSTGRESQL_SEARCH_CONFIG = 'public.english_nostop'
+
 django-watson
 =============
 
